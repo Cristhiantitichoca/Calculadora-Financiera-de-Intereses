@@ -1,0 +1,7 @@
+Prestamista: RICARDO
+Cliente: TATANIA
+Monto Inicial: 80000.0
+Tasa de Interés: 0.02% mensual
+Tiempo: 4 años
+Interés Simple Calculado: 76800.0
+----------------------------

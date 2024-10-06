@@ -1,0 +1,7 @@
+Prestamista: RICARDO
+Cliente: PENNY
+Monto Inicial: 89302.0
+Tasa de Interés: 0.01% mensual
+Tiempo: 4 meses
+Interés Simple Calculado: 3572.08
+----------------------------
